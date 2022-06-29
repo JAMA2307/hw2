@@ -1,0 +1,33 @@
+p.heade {
+    color:white;
+}
+p.jasur{
+    color: rgb(0, 128, 100);
+    margin-left: 20px;
+    border-left: 1px solid rgb(219, 219, 228);
+    padding-left: 15px;
+}
+ body.one {
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+       }
+       body.two {
+        -moz-background-size: 100%;
+        -webkit-background-size: 100%;
+        -o-background-size: 100%;
+        background-size: 100%;
+           }
+       div.picture {
+        background: #ebecec;
+        padding: 10px;
+        border-radius: 5px;
+       }
+       p.page {
+        color: blueviolet;
+       }
+    p.Developmentandrelease{
+        color: firebrick;
+    }
+
